@@ -1,0 +1,127 @@
+{
+  "item": {
+    "id": "com.h.box",
+    "restype": "quick_app",
+    "name": "box工具箱",
+    "description": "box工具箱【付费版】\n 🔥 30+精选工具合集！\n 💸 3元激活！\n2. 激活：https://an.001155.top/\n 📩 官方交流群：1078439782\n提建议、反馈问题，一起完善工具！\n你的赞助=持续更新动力，感谢支持～\n修复日志:\n1修复长笔记问题\n2修复清理文件问题\n3修复清理时间过长问题\n4更新适配\n5.修复性能测试问题\n6添加适配AstroBox插件(进QQ群下载手动安装)\n13 修复已知问题增加稳定性\n\nApp问题：若发现连接手表失败，可重新在小米运动健康中连接手表后清空后台。重新打开，即可连接成功。\n购买网站：https://an.001155.top/\n 在爱发电。认证通过之前，请去网站购买，否则可能发卡不及时（本人只有周末在发卡只能手动）安卓应用链接 box工具箱2.0.1_sign.apk\n链接：https://1813884772.share.123pan.cn/123pan/TazlVv-4tTRH?pwd=iCMT#\n提取码：iCMT\n配套apk",
+    "preview": [
+      "media/redmi_watch-2026-10-04-22-38-58.png",
+      "media/redmi_watch-2026-10-04-22-38-59.png",
+      "media/redmi_watch-2026-10-04-22-39-07.png",
+      "media/redmi_watch-2026-10-04-22-39-08.png",
+      "media/redmi_watch-2026-10-04-22-39-14.png",
+      "media/redmi_watch-2026-10-04-22-39-15.png",
+      "media/xiaomi_band_10-2026-10-04-22-38-35.png",
+      "media/xiaomi_band_10-2026-10-04-22-38-40.png",
+      "media/xiaomi_band_pro-2026-10-04-22-38-06.png",
+      "media/xiaomi_band_pro-2026-10-04-22-38-18.png",
+      "media/xiaomi_band_pro-2026-10-04-22-38-19.png",
+      "media/xiaomi_band_pro-2026-10-04-22-38-23.png",
+      "media/xiaomi_band_pro-2026-10-04-22-38-24.png",
+      "media/xiaomi_band-2026-10-04-22-39-23.png"
+    ],
+    "icon": "media/app_icon.png",
+    "cover": "media/image2ai-IMG6D30B3A930A14624_compressed.png",
+    "author": [
+      {
+        "name": "2848944925",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "购买激活链接",
+      "url": "https://an.001155.top/",
+      "icon": "link"
+    },
+    {
+      "title": "爱发电链接",
+      "url": "https://afdian.com/a/velabyh",
+      "icon": "link-simple"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    },
+    "xmrw5xring": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    },
+    "xmrw6": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    },
+    "xmb10": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    },
+    "xmb10nfc": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    },
+    "xmb10p": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    },
+    "xmb11": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    },
+    "xmb11nfc": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    },
+    "xmb9": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    },
+    "xmb9p": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    },
+    "xmws3": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    },
+    "xmws4xring": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    },
+    "xmws441": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    },
+    "xmws4": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    },
+    "xmws541": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    },
+    "xmws5": {
+      "version": "2.1.4",
+      "file_name": "downloads/com.h.box.release.2.1.4.rpk",
+      "versionCode": 24
+    }
+  },
+  "ext": {}
+}
